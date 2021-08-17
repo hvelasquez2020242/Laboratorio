@@ -1,0 +1,82 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+body{
+	background: url('img/fondo3.jpg');
+	background-size: cover;
+	font-family: 'verdana'
+}
+
+.titulo {
+	font-size: 40px; 
+	letter-spacing: 4px;
+	font-weight: 100px;
+	margin: 30px 0 20px;  
+		color: #B0B0E7;
+
+}
+.titulos{
+font-size: 20px; 
+	letter-spacing: 4px;
+	font-weight: 100px;
+	margin: 30px 0 20px;  
+		color: #B0B0E7;
+}
+.contenedor{
+	width: 500px;
+	background: rgba(0, 0, 0, .2);
+	margin: 20px auto;
+	padding: 20px;
+	color: white;
+	text-align: center;
+	border-radius: 20px;
+}
+footer {
+	margin-top: 70px;
+	background: rgba(0, 0, 0, .3);
+  position: static;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+
+
+}
+
+
+header a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  margin: auto 20px;
+}
+header a:hover{
+	color: white;
+  background-color: #F57401;
+  border-radius: 20px;
+  margin: 0px 20px 0px 20px;
+}
+header {
+	background: rgba(0, 0, 0, .4);
+margin: 20PX;
+border-radius: 15PX;
+  text-decoration: none;
+   overflow: hidden;
+   padding: 20px;
+}
+header	 ul{
+	list-style: none;
+}
+.AA{
+	margin: 10px;
+}
+.el{
+	margin: 5px; 
+}
+ 
